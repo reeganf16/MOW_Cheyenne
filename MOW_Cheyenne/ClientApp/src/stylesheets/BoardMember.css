@@ -1,0 +1,12 @@
+.board {
+    background-color: #1F2232;
+    padding: 4em 0;
+}
+
+.card {
+    padding: 30px;
+}
+
+.card-subtitle {
+    padding-top: 10px;
+}

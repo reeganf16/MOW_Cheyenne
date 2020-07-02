@@ -1,0 +1,22 @@
+div.mission-section {
+    width: 100%;
+    height: auto;
+    background-color: #F1FAEE;
+    padding: 2em 0 2em 0;
+}
+
+div.mission-img {
+    height: 450px;
+    width: 450px;
+    background-image: url('../images/our-mission.png');
+    margin-top: 2em;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .col { max-width: 100%; flex: none;}
+    body { text-align: center; justify-content: center; }
+    div.mission-img { display: none; }
+    div.mission-section {padding: 2em 0 2em 0;}
+
+}

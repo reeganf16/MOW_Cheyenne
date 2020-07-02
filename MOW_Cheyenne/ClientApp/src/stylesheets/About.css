@@ -1,0 +1,38 @@
+.about-us {
+    height: auto;
+    width: 100%;
+    background-image: url('../images/about-hero.png');
+    padding: 2em 0;
+    margin: 100px 0 0 0;
+
+}
+
+.about-info {
+    height: auto;
+    width: 100%;
+    background-color: #F1FAEE;
+    padding: 5em 1em;
+}
+
+.about-secondary {
+    height: 390px;
+    width: auto;
+    background-image: url('../images/about-secondary.png');
+    margin: 40px;
+}
+
+.left-paragraph {
+    margin: 20px 20px 20px 0;
+}
+
+.right-paragraph {
+    margin: 20px 0 20px 40px;
+}
+
+@media only screen and (max-width: 600px) {
+    .about-us {background-image: url('../images/about-mobile.png'); margin: 0; }
+    .about-info { padding: 2em 1em;}
+    .about-secondary { background-image: url('../images/about-secondary-mobile.png'); margin: 10px;}
+    .left-paragraph {margin: 0}
+    .right-paragraph {margin: 0}
+}

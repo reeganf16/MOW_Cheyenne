@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="268px" height="126px" viewBox="0 0 268 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>footer-logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Wiregrame" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-585.000000, -2299.000000)">
+            <g id="footer" transform="translate(-16.000000, 2220.000000)">
+                <g id="footer-logo" transform="translate(591.000000, 79.000000)">
+                    <g id="logo-shapes" transform="translate(83.000000, 0.000000)">
+                        <polygon id="Rectangle" fill="#F79D84" points="21.7696629 24.2847732 27.3876404 0 33.005618 24.2847732 27.3876404 47.5648855"></polygon>
+                        <path d="M49.1573034,24.4411781 L54.4545808,1.0658141e-14 L61.3901318,24.4411781 L75.1404494,69.0549246 L75.0453034,69.054 L75.0671669,69.1157194 L70.303277,93 L63.0243034,69.115 L63.0053896,69.1157194 L55.5472192,45.2314387 L49.1573034,24.4411781 Z" id="Combined-Shape" fill="#F79D84"></path>
+                        <polygon id="Rectangle-Copy-3" fill="#F79D84" points="91.994382 68.9367212 97.6123596 45.4351145 103.230337 69.2263409 97.4795443 93"></polygon>
+                        <path d="M0,47.5648855 L6.99974056,47.5648855 C12.6026432,47.5648855 17.4598244,43.6876415 18.7014039,38.2240348 L27.3876404,0 L27.3876404,0 L19.3017525,0 C13.5759864,4.60451984e-15 8.64782867,4.04523381 7.53187557,9.6611973 L0,47.5648855 L0,47.5648855 Z" id="Path" fill="#F1FAEE"></path>
+                        <path d="M70.9269663,93 L77.5042886,93 C83.1385527,93 88.0140753,89.0801804 89.2242268,83.5774116 L97.6123596,45.4351145 L97.6123596,45.4351145 L90.0681479,45.4351145 C84.3239595,45.4351145 79.3853643,49.5058121 78.2888238,55.1443668 L70.9269663,93 L70.9269663,93 Z" id="Path-Copy-3" fill="#F1FAEE"></path>
+                        <path d="M96.9101124,93 L105.401149,93 C111.093005,93 116.001809,89.0014514 117.153105,83.4272488 L125,45.4351145 L125,45.4351145 L117.563107,45.4351145 C111.989726,45.4351145 107.14995,49.2724714 105.879188,54.699048 L96.9101124,93 L96.9101124,93 Z" id="Path-Copy-4" fill="#F1FAEE"></path>
+                        <path d="M27.3876404,47.5648855 L35.3054885,47.5648855 C41.0120465,47.5648855 45.9292644,43.5461254 47.0652989,37.9537887 L54.7752809,0 L54.7752809,0 L47.7002137,0 C42.088889,-7.45573213e-16 37.2267672,3.88865713 35.9935844,9.36279864 L27.3876404,47.5648855 L27.3876404,47.5648855 Z" id="Path-Copy" fill="#F1FAEE"></path>
+                        <ellipse id="Oval" fill="#F79D84" cx="6.67134831" cy="64.6030534" rx="6.67134831" ry="7.80916031"></ellipse>
+                        <ellipse id="Oval-Copy" fill="#F1FAEE" cx="37.5702247" cy="64.6030534" rx="6.67134831" ry="7.80916031"></ellipse>
+                        <ellipse id="Oval-Copy-2" fill="#F1FAEE" cx="90.238764" cy="29.1068702" rx="6.67134831" ry="7.80916031"></ellipse>
+                        <ellipse id="Oval-Copy-3" fill="#F79D84" cx="118.328652" cy="29.1068702" rx="6.67134831" ry="7.80916031"></ellipse>
+                    </g>
+                    <text id="Meals-on-Wheels-of-C" font-family="TeluguMN-Bold, Telugu MN" font-size="16" font-weight="bold" letter-spacing="1.50342471" fill="#F1FAEE">
+                        <tspan x="9.73111015" y="122">Meals on Wheels of Cheyenne</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

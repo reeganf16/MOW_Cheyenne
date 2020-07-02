@@ -1,0 +1,21 @@
+.btn {
+    background-color: #F79D84;
+    font-family: 'Lato';
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1.45px;
+    color: #F1FAEE;
+
+    padding: 10px 30px 10px 30px;
+    margin: 15px 0 15px 0;
+    border: none;
+}
+
+.btn:hover {
+    color: #F1FAEE;
+    background-color: #17A398;
+}
+
+@media only screen and (max-width: 600px) {
+    .btn { margin: 10px 0 10px 0}
+}

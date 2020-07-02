@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{5FC73AC6-028F-47A2-88B4-42F70F5D946D}|Default" MonoDevelop.Ide.FileNesting.Enabled="False">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MOW_Cheyenne/Controllers/MetaDataController.cs">
+    <Files>
+      <File FileName="MOW_Cheyenne/Data/InitializeDb.cs" Line="147" Column="1" />
+      <File FileName="MOW_Cheyenne/Repositories/MetaDataRepository.cs" Line="1" Column="1" />
+      <File FileName="MOW_Cheyenne/Data/ApplicationContext.cs" Line="1" Column="1" />
+      <File FileName="MOW_Cheyenne/Program.cs" />
+      <File FileName="MOW_Cheyenne/ClientApp/src/App.js" />
+      <File FileName="MOW_Cheyenne/Startup.cs" />
+      <File FileName="MOW_Cheyenne/Models/MetaData.cs" Line="1" Column="1" />
+      <File FileName="MOW_Cheyenne/Controllers/MetaDataController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MOW_Cheyenne" expanded="True">
+            <Node name="MOW_Cheyenne" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="MetaDataController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MOW__Cheyenne PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>

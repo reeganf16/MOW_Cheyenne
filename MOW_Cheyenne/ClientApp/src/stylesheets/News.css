@@ -1,0 +1,23 @@
+div.news-section {
+    width: 100%;
+    height: auto;
+    background-color: #1F2232;
+    padding: 4em 0;
+}
+
+div.middle-aligned {
+    text-align: center;
+}
+
+.card-image {
+    height: 200px;
+    width: 200px;
+}
+.card {
+    background-color: transparent;
+}
+
+div.card-body {
+    text-align: center;
+}
+
